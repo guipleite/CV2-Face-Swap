@@ -6,6 +6,8 @@
 ### Professor Luciano Silva
 ### Insper - Computer Vision - 2020.2
 
+___
+
 The code presents an implementation for face swapping, between two different images, using two well-known computer vision python libraries: __dlib__ and __OpenCV__.
 
 #### Implementation summary:
